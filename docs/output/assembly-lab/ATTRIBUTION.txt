@@ -1,0 +1,4 @@
+Ear-derived geometry: CC BY-SA 4.0. Modified from Alberto Díez-Montiel, Alicia Pose-Díez-de-la-Lastra, Alba González-Álvarez, José Ignacio Salmerón, Javier Pascau and Santiago Ochandiano (2024), doi:10.5281/zenodo.10958624
+https://zenodo.org/records/10958624
+New manually drafted paths and swept surfaces; no claim of author annotations or surgical endorsement.
+Published surgical images remain at their original linked source and are not copied into this output.

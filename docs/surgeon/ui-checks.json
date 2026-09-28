@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-28",
+  "passed": true,
+  "environment": "Local public-site preview",
+  "checks": [
+    "Component highlight and separation controls",
+    "Reference-ear height selector at 61.5 mm",
+    "Historical connected-stock versus latest-forming counts",
+    "20% exploratory strain-screen results match rigid-control counts",
+    "Known 2.0 mm local-displacement response: 0.267 mm best-fit and 0.334 mm known-pose RMSE",
+    "Antihelix sutures-only state: 0.47 mm RMS and 0.496 N peak modeled stitch tension",
+    "Base component switching and released state",
+    "3.4 mm helix section clearly marked not certified",
+    "No observed browser warnings or errors"
+  ],
+  "scope": "Presentation checks only; no numerical or clinical experiment rerun."
+}

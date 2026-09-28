@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "measured_cases_unchanged": 10,
+  "helix_equilibrium_states_unchanged": 168,
+  "reference_vertices_and_faces_unchanged": true,
+  "latest_forming_summary_unchanged": true,
+  "development_milestones": 11,
+  "local_links_and_ids_valid": true,
+  "new_native_cartilage_geometry": false
+}
